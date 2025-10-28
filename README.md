@@ -2,7 +2,7 @@ WanderLust - Airbnb Clone
 A full-stack MERN Airbnb-inspired project where users can explore, list, and review unique places to stay.
 All code in this project is completely handwritten by me, with no use of AI tools at any stage.
 
-Live Demo: https://wanderlust-vdpo.onrender.com/listing
+Live Demo: https://wanderlust-vdpo.onrender.com/listings
 
 🚀 Features
 User Authentication (Sign-up, Sign-in, Logout)
@@ -24,7 +24,7 @@ Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js, Mapbox GL JS, Bootstra
 
 🛠️ Installation & Setup
 Clone this repository
-git clone https://github.com/yourusername/airbnb-clone.git
+git clone https://github.com/Shubhankarmaity/airbnb-clone.git
 cd airbnb-clone
 
 Install dependencies
@@ -44,4 +44,4 @@ You may use and adapt it for learning and private projects.
 Made with ❤️ by Shubhankar Maity
 
 🌏 Live Demo
-https://wanderlust-vdpo.onrender.com/listing
+https://wanderlust-vdpo.onrender.com/listings
